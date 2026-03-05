@@ -35,14 +35,12 @@
 [+] Hunting Bugs & Vulnerabilities
 [+] Researching Latest Cyber Security Trends
 [+] Building Secure Web Applications
-[+] Becoming GOATED
+[+] Become GOATED
 ```
 
 ---
 
 ## `$ ls -la ~/arsenal/`
-
-**Security & Pentesting**
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
