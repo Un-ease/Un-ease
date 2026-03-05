@@ -36,17 +36,19 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> whoami
 
 ```bash
+
 anij@pokhara-sec:~$ cat about.txt
 Name: Anij Gurung
 Role: Security Researcher | Bug Hunter | Web App Pentester
 Location: Pokhara, Nepal
 Education: BSc Hons Computing (In Progress)
+```
 <p align="center">
   <img src="https://kimi-web-img.moonshot.cn/img/thumbs.dreamstime.com/4b0d014e309b5c8b0a5904d613a08bd43cfb5187.jpg" width="80%" style="border-radius: 8px;" alt="Workstation"/>
 </p>
+
 Current Mission
-plain
-Copy
+
 [+] Pursuing BSc Hons Computing
 [+] Mastering Web Application Security
 [+] Hunting Bugs & Vulnerabilities
@@ -122,4 +124,3 @@ Connect With Me
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer&text=&fontSize=0" width="100%"/>
 </p>
-```
