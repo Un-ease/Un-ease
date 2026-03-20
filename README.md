@@ -5,7 +5,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Un--ease-161b22?style=flat-square&logo=github&logoColor=00ff41)](https://github.com/Un-ease)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anij--gurung-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anij-gurung)
 [![Twitter](https://img.shields.io/badge/Twitter-anijgurung-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/anijgurung)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-anijgurung-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/anijgurung)
 [![Profile Views](https://komarev.com/ghpvc/?username=Un-ease&label=Profile+Views&color=00ff41&style=flat-square)](https://github.com/Un-ease)
 
 </div>
