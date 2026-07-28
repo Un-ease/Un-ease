@@ -4,10 +4,10 @@
   type=waving&color=0:050505,45:001a08,100:00ff41&height=210&section=header&text=Anij%20Gurung&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=Security%20Researcher%20%E2%80%A2%20Bug%20Hunter
   %20%E2%80%A2%20Builder&descAlignY=56&descSize=17&animation=fadeIn" width="100%"/>
 
-  ### I find security flaws in web applications—and help get them fixed.
+  ### I find security flaws 
 
   Based in Pokhara, Nepal 🇳🇵
-  Currently Fucking around and finding out.
+  Currently Fucking around and Finding out.
 
   <br/>
 
