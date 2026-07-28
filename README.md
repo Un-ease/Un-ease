@@ -1,4 +1,4 @@
-• <!-- You checked the source. Curiosity is a security skill. -->
+<!-- You checked the source. Curiosity is a security skill. -->
 
   <div align="center">
 
