@@ -67,8 +67,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Un-ease&show_icons=true&theme=chartreuse-
   dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" height="175"/>
 
-  <img src="https://streak-stats.demolab.com/?user=Un-ease&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41" height="175"/
-  >
+  <img src="https://streak-stats.demolab.com/?user=Un-ease&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41" height="175"/>
 
   </div>
 
