@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:001a08,100:00ff41&height=200&section=header&text=ANIJ%20GURUNG&fontColor=ffffff&fontSize=45&fontAlignY=36&desc=HACKER&descAlignY=57&descSize=18&animation=fadeIn" width="100%" alt="Anij Gurung"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:001a08,100:00ff41&height=200&section=header&text=ANIJ%20GURUNG&fontColor=ffffff&fontSize=45&fontAlignY=36&desc=&descAlignY=57&descSize=18&animation=fadeIn" width="100%" alt="Anij Gurung"/>
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350" alt="Cat aggressively typing"/>
 
